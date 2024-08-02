@@ -20,4 +20,4 @@
 4. Visit `http://localhost:3000` to view the dashboard.
 
 ## Live Demo
-- The application is hosted on Netlify 
+- The application is hosted on Netlify : https://ubiquitous-chebakia-8fe432.netlify.app
